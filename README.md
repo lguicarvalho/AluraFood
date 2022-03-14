@@ -1,7 +1,10 @@
 # Challenge de BI - 2ª Semana - Alura Food
 A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para isso, ela precisa da sua ajuda na criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.
-#### Link da Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294
+
+## 📊 Dashboard
+
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294" target="_blank">![AluraFood](https://github.com/lguicarvalho/AluraFood/blob/main/%C3%8Dcones/AluraFood%20Gif.gif "AluraFood Dashboard")</a>
 
 #### Métricas base
 * Filtrar por cidade, restaurantes e se tem reserva
@@ -13,8 +16,4 @@ https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5O
 * Culinárias que mais são exploradas na Índia
 * Restaurantes por cidade e suas classificações
 
-### Homepage - Filmes, Astros e Diretores
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294" target="_blank">![AluraFood](https://github.com/lguicarvalho/AluraFood/blob/main/%C3%8Dcones/AluraFood%20Gif.gif "AluraFood Dashboard")</a>
 
-
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
