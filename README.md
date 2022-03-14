@@ -14,5 +14,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5O
 * Restaurantes por cidade e suas classificações
 
 ### Homepage - Filmes, Astros e Diretores
-![AluraFood](https://github.com/lguicarvalho/AluraFood/blob/main/%C3%8Dcones/AluraFood%20Gif.gif "AluraFood Dashboard")
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjc0YjdmMTItMDc3Yy00ODhjLTljZTItM2M1ZTI5ODYyYWVjIiwidCI6IjJmYWRmOGZiLWQwY2MtNDUxYS1iZjQ3LTdiYTc3ODkwZTk4NCJ9&pageName=ReportSection30e1b058fb4158069294" title="Hobbit lifestyles" target=”_blank”>![AluraFood](https://github.com/lguicarvalho/AluraFood/blob/main/%C3%8Dcones/AluraFood%20Gif.gif "AluraFood Dashboard")</a>
+
 
